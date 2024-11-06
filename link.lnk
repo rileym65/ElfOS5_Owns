@@ -1,0 +1,8 @@
+library stdlib.lib
+add main.prg
+add addname.prg
+add delname.prg
+add ishex.prg
+add scandir.prg
+add scanfile.prg
+add data.prg
